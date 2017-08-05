@@ -29,6 +29,14 @@ Some tips on choosing a good icon:
 - Upload an image that is 132px square or larger.
 ```
 
+#### From YYJ Tech
+
+```
+- Must be original.
+- Whales?
+- Represent YYJ Tech Community.
+```
+
 ## Important Dates
 
 **August 18th 2017**: The deadline for submissions.

@@ -47,7 +47,7 @@ Some tips on choosing a good icon:
 
 Submissions will be accepted from August 4th at 2pm until August 18th at 11:59pm. 
 
-To have your submission counted please title it `name - Official Submission` and replace `name` with your name. AND SUBMIT IT to #yyjtechlogo or DM FlyteWizard (A.K.A. Dominique).
+To have your submission counted please title it `name - Official Submission` and replace `name` with your name. AND SUBMIT IT to #yyjtechlogo or DM FlyteWizard (A.K.A. Dominique). Submissions must be in either `.png`, `.ai`, or `.svg`
 
 You can view all logos in the #yyjtechlogo channel. 
 

@@ -51,7 +51,7 @@ To have your submission counted please title it `name - Official Submission` and
 
 You can view all logos in the #yyjtechlogo channel. 
 
-A google drive folder will be posted here shortly of all the official submissions. 
+You can view all official submissions [HERE](https://drive.google.com/drive/folders/0B4cFIaIGrm38VWpNRWdkVVpncGM?usp=sharing).
 
 ## Voting
 

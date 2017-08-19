@@ -57,4 +57,4 @@ You can view all official submissions [HERE](https://drive.google.com/drive/fold
 
 Voting will be from August 19th at 9am PT until August 25th at 5pm PT. 
 
-The link to vote will be available here and in #yyjtechlogo and #general channel in YYJ Tech Slack Team.
+The link to vote will be available [HERE](https://goo.gl/forms/pYe3XHlDBD7gEjV03) and in #yyjtechlogo and #general channel in YYJ Tech Slack Team.

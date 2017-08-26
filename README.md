@@ -4,4 +4,4 @@
 
 The FAQ can be found [HERE](./FAQ.md).
 
-The Winning Announcement [HERE](./WINNER.md)
+The Winning Announcement can be found [HERE](./WINNER.md)

@@ -8,4 +8,4 @@ Congratulations to Jem! Their logo won the YYJ Tech Logo Challenge.
 
 120 members of the YYJ Tech Slack Group gave their opinions and voted for the logo that they thought best represented YYJ Tech. 
 
-![yyjtech](./JemOfficialSubmission.png)
+![yyjtech](../images/jem-official-submission.png)

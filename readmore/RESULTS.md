@@ -2,7 +2,7 @@
 
 ## Results
 
-Here is the results for the voting.
+Here are the results for the voting.
 
 ### Options 
 
